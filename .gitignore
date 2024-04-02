@@ -1,0 +1,10 @@
+/target/
+
+### Ignore .bak files
+*.bak
+
+*.classpath
+
+*.project
+
+.settings/
